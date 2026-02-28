@@ -139,27 +139,6 @@ Gemini uses a **different format from OpenAI**. Key differences:
 
 ## 📁 Project Structure
 
-```
-gemini-finetune/
-│
-├── data/
-│   └── train.jsonl              # Your training dataset
-│   └── validation.jsonl         # Optional validation set
-│
-├── scripts/
-│   ├── prepare_dataset.py       # Generate & validate JSONL
-│   ├── upload_to_gcs.py         # Upload dataset to GCS
-│   ├── launch_finetune.py       # Start fine-tuning job
-│   └── inference.py             # Use fine-tuned model
-│
-├── utils/
-│   ├── view_contents.py         # Inspect dataset contents
-│   ├── validate_dataset.py      # Validate JSONL format
-│   └── count_tokens.py          # Count tokens per role
-│
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -352,5 +331,7 @@ print(response.text)
 MIT License — free to use, modify, and distribute.
 
 ---
+<img width="1847" height="488" alt="image" src="https://github.com/user-attachments/assets/ced69241-5500-4141-92a9-8b15e31d82a9" />
 
-> Built with ❤️ | Fine-tune smarter, not harder 🚀
+<img width="1620" height="555" alt="image" src="https://github.com/user-attachments/assets/e35f739a-6811-4e18-9670-dea6136eaa8f" />
+
