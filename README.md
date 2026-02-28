@@ -121,11 +121,6 @@ Gemini uses a **different format from OpenAI**. Key differences:
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## ⚡ Quick Start
 
 ```python
