@@ -2,22 +2,6 @@
 
 > Fine-tune Google Gemini models on your own domain data using Vertex AI — turn a general-purpose model into a domain expert.
 
----
-
-## 📋 Table of Contents
-- [What is Fine-Tuning?](#what-is-fine-tuning)
-- [Supported Models](#supported-models)
-- [Pricing](#pricing)
-- [Prerequisites](#prerequisites)
-- [Dataset Format](#dataset-format)
-- [Project Structure](#project-structure)
-- [Quick Start](#quick-start)
-- [Helper Functions](#helper-functions)
-- [Launch Fine-Tuning Job](#launch-fine-tuning-job)
-- [Use Your Fine-Tuned Model](#use-your-fine-tuned-model)
-- [What Can You Build?](#what-can-you-build)
-
----
 
 ## 🧠 What is Fine-Tuning?
 
